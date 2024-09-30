@@ -1,6 +1,5 @@
 /* Change the background color of the page body */
 body {
-    background-color: #f0f0f0; /* Light grey background */
     color: #333; /* Default text color */
     font-family: Arial, sans-serif; /* Customize the font family */
     padding: 20px; /* Add padding around the body */
@@ -58,3 +57,7 @@ li {
     color: #3498db; /* Lighter blue on hover */
 }
 
+/* Missing Instructions: 
+1. Change the background color of the page body. 
+2. Change the font size, weight, and color of headings. 
+*/
