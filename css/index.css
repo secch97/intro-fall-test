@@ -1,1 +1,60 @@
+/* Change the background color of the page body */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    color: #333; /* Default text color */
+    font-family: Arial, sans-serif; /* Customize the font family */
+    padding: 20px; /* Add padding around the body */
+}
+
+/* Customize section spacing */
+section {
+    margin: 20px 0; /* Add margin between sections */
+}
+
+/* Change alignment of content in the About section */
+#About {
+    text-align: center; /* Center the content */
+}
+
+/* Change font size, weight, and color of headings */
+h1 {
+    font-size: 2.5em; /* Larger font size for the main heading */
+    font-weight: bold; /* Bold font weight */
+    color: #2c3e50; /* Darker color for headings */
+}
+
+h2 {
+    font-size: 2em; /* Size for subheadings */
+    font-weight: 600; /* Semi-bold font weight */
+    color: #34495e; /* Different color for subheadings */
+}
+
+/* Transform the style of your Name at the top of the page */
+h1 {
+    text-transform: uppercase; /* Transform text to uppercase */
+}
+
+/* Styled blocks for Experience list items */
+ul {
+    list-style-type: none; /* Remove default list style */
+    padding: 0; /* Remove padding */
+}
+
+li {
+    background-color: #ffffff; /* White background for list items */
+    border: 1px solid #ccc; /* Light grey border */
+    padding: 10px; /* Padding inside list items */
+    margin-bottom: 10px; /* Space between items */
+}
+
+/* Transform the style of the Connect links */
+#Connect a {
+    text-decoration: none; /* Remove underline from links */
+    color: #2980b9; /* Blue color for links */
+}
+
+/* Change hover effect for links */
+#Connect a:hover {
+    color: #3498db; /* Lighter blue on hover */
+}
 
