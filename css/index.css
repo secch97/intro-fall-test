@@ -3,6 +3,7 @@ body {
     color: #333; /* Default text color */
     font-family: Arial, sans-serif; /* Customize the font family */
     padding: 20px; /* Add padding around the body */
+    background-color: "#f0f0f0"
 }
 
 /* Customize section spacing */
